@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "saliency", "saliency\saliency.vcproj", "{7CCA9FC4-0CE9-43A3-B753-9001764BEEDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "saliencyfilter", "saliencyfilter\saliencyfilter.vcproj", "{0B0C4AAC-E36B-4624-8206-1E317CDB0D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCA9FC4-0CE9-43A3-B753-9001764BEEDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CCA9FC4-0CE9-43A3-B753-9001764BEEDA}.Debug|Win32.Build.0 = Debug|Win32
+		{7CCA9FC4-0CE9-43A3-B753-9001764BEEDA}.Release|Win32.ActiveCfg = Release|Win32
+		{7CCA9FC4-0CE9-43A3-B753-9001764BEEDA}.Release|Win32.Build.0 = Release|Win32
+		{0B0C4AAC-E36B-4624-8206-1E317CDB0D10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B0C4AAC-E36B-4624-8206-1E317CDB0D10}.Debug|Win32.Build.0 = Debug|Win32
+		{0B0C4AAC-E36B-4624-8206-1E317CDB0D10}.Release|Win32.ActiveCfg = Release|Win32
+		{0B0C4AAC-E36B-4624-8206-1E317CDB0D10}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
